@@ -1,6 +1,6 @@
 'use strict';
 
-discord_getMessagesPin(
+discordPinnedMessages.run(
 	'#data-price',
 	'303327594793795588',
 	'475258834500321280',
